@@ -1,6 +1,6 @@
 # Excel_Coffee_Sales_DSA
-• Import, explore, clean, analyze, and visualize the data
+• Imported raw data to clean, explore and analyze the data.
 
-• Transform, link, and categorize data using logical, lookups, and index-match functions .
+• Used advanced excel functions such as lookups, logical and index-match for the ease of data processing and presenting.
 
-• Understand how different variables may impact each other.
+• Prepared dynamic excel dashboard by using pivot table, slicer, timeline and other advanced techniques to display sales numbers on the basis of different products.
