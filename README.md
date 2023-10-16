@@ -1,4 +1,4 @@
-# Excel_Coffee_Sales_DSA
+# Excel_Coffee_Outlet_Sales_DSA
 • Imported raw data to clean, explore and analyze the data.
 
 • Used advanced excel functions such as lookups, logical and index-match for the ease of data processing and presenting.
